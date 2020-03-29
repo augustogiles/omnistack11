@@ -33,7 +33,7 @@
 
 #### 5. Incidents List (Mobile)
 
-<img alt="" src="https://raw.githubusercontent.com/jaugustogiles/omnistack11/master/screen/hero_mobile_list.jpeg">
+<img alt="" src="https://raw.githubusercontent.com/augustogiles/omnistack11/master/screen/hero_mobile_list.jpeg">
 
 #### 6. Incident Details (Mobile)
 
